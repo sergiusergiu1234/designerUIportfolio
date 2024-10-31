@@ -1,4 +1,4 @@
-# Backend Setup
+# Frontend Setup
 from root 
 cd portfolio-frontend
 
