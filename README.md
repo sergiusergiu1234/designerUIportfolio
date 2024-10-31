@@ -1,3 +1,6 @@
+
+clone project
+
 # Backend Setup
 ### 1. Set Up Backend
 1. **Navigate to Backend Directory:**  
